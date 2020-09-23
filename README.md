@@ -1,3 +1,2 @@
 # manoj
-The files is Ecommerce html/css template for visiters.
-It includes only Html and css.
+Some Random files related to ecommerce with some stuff collection of HTML,CSS,PHP,JavaScript,JQuery and React framework.
